@@ -1,0 +1,4 @@
+https://myeasytuts.com/solved-undefined-reference-to-pthread_create-linux/
+link to understand compilation command
+
+explaination to program will be uploaded soon.....
